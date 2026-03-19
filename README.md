@@ -34,6 +34,7 @@
 
 Check my pinned repositories for code samples, libraries, and web/mobile apps:
 
+* [pr-reviewer](https://github.com/Bryan-an/pr-reviewer): AI-powered pull request reviewer for Azure DevOps. It generates structured, line-anchored review comments using CodeRabbit and Claude Code.
 * [zip2ats](https://github.com/Bryan-an/zip2ats): A public web app that processes electronic receipts XML from Ecuador's SRI, normalizes data, and generates ATS/purchase-sales books in Excel/CSV format.
 * [little-lemon-android](https://github.com/Bryan-an/little-lemon-android): A Compose-first Android app for the Little Lemon restaurant experience. It includes onboarding (registration), a home screen to browse the menu (with search + category filters), and a profile screen with logout.
 * [meta-capstone-project](https://github.com/Bryan-an/meta-capstone-project): A modern, full-stack restaurant website built with Next.js, featuring table reservations, menu showcases, customer testimonials, and multi-language support. This is a capstone project for the Meta Front-End Developer Specialization.
