@@ -11,11 +11,11 @@
 ## Tech stack & tools
 
 * **Frontend:** React · Next.js · Angular · TypeScript · HTML · CSS · JavaScript
-* **Mobile:** React Native · Flutter · Android· iOS
+* **Mobile:** React Native · Flutter · Android · iOS
 * **Backend / APIs:** Node.js · Express · NestJS · Go · PHP
 * **Databases:** PostgreSQL · MySQL · SQL Server · MongoDB
-* **DevOps / Cloud:** Docker · AWS (EC2, S3) · Azure DevOps · SonarCloud · Sentry· Dynatrace
-* **Other:** Git · RabbitMQ · Kotlin · Java· Swift
+* **DevOps / Cloud:** Docker · AWS (EC2, S3) · Azure DevOps · SonarCloud · Sentry · Dynatrace
+* **Other:** Git · RabbitMQ · Kotlin · Java · Swift
 
 ## What I do well
 
